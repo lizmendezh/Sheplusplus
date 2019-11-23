@@ -5,8 +5,3 @@ Contribuye a este repositorio creado para el taller "Introducción al uso de Git
 Glo´s contribution:
 # Diciembre
 - [ ] Pasar  el final
-- [] Disfrutar la fiesta de fin de fase I
-- [] Ir a ver el cascanueces
-- [] Hacer ponche
-- [] Ir a la playa
-- [] Repasar  los otros módulos para fase II
