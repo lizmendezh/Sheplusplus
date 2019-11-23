@@ -24,3 +24,9 @@ Contribuye a este repositorio creado para el taller "Introducción al uso de Git
 #### ayudaaaa
 
 [probando ](https://www.instagram.com/liz.mendezh/)
+[x] insertar imágenes 
+[x] diferentes tipos de fuentes
+[x] citas 
+[x] tablas
+![alt text][logo]
+[logo]: https://media.tenor.com/images/ef30b7cc3f406147e3c3cfe1833d8690/tenor.gif
