@@ -118,3 +118,10 @@ Glo´s contribution:
 - [ ] Pasar  el final  
 - [x] Terminar caso  clínico
 Fin
+[x] insertar imágenes 
+[x] diferentes tipos de fuentes
+[x] citas 
+[x] tablas
+![alt text][logo]
+[logo]: https://media.tenor.com/images/ef30b7cc3f406147e3c3cfe1833d8690/tenor.gif
+
