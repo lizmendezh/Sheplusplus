@@ -117,3 +117,4 @@ Glo´s contribution:
 # Diciembre
 - [ ] Pasar  el final  
 - [x] Terminar caso  clínico
+Fin
