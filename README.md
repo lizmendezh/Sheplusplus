@@ -37,6 +37,83 @@ Contribuye a este repositorio creado para el taller "Introducción al uso de Git
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Glo´s contribution:
 # Diciembre
 - [ ] Pasar  el final  
+- [x] Terminar caso  clínico
